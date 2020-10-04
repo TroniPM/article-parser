@@ -17,7 +17,7 @@ View [screenshots](#screenshots) for more info.
 ## Usage
 
 ```
-npm install article-parser
+npm install https://github.com/TroniPM/article-parser
 ```
 
 Then:
